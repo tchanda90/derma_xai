@@ -11,3 +11,4 @@ torch==1.10.0
 torchmetrics==0.7.2
 torchvision==0.10.0a0
 wandb==0.12.7
+jupyter
