@@ -1,8 +1,8 @@
-Working Example:
+## Working Example:
 
 Some sample images are provided in data/images/ and the model weights are stored in classifier/models/combined_model.pth
 
-run the commands: 
+Run the commands: 
 
 conda create -n "env" python=3.9.9
 conda activate env
